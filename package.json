@@ -1,0 +1,32 @@
+{
+  "name": "bukowski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notsag-dev/bukowski.git"
+  },
+  "keywords": [
+    "bukowski",
+    "intel",
+    "macintosh",
+    "commodore",
+    "ibm",
+    "ms-dos",
+    "apple"
+  ],
+  "bin": {
+    "bukowski": "bin/bukowski.js"
+  },
+  "author": "notsag-dev",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/notsag-dev/bukowski/issues"
+  },
+  "homepage": "https://github.com/notsag-dev/bukowski#readme"
+}
